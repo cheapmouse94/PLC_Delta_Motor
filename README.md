@@ -38,29 +38,30 @@ Oznaczenia rekwizytów na schemacie:
 |Lp|	Indeks|	Opis|
 | --- | --- | --- |
 |1|	M1|	Silnik 3x400V|
-2	Q1	Wyłącznik silnikowy
-3	K1/K2	Praca silnika do przodu / do tyłu
-4	S3 / S2	Przycisk Start / Stop
-5	S4	Przełącznik krzywkowy
-6	T1	Wyłącznik termiczny
-7	SG	Wyłącznik bezpieczeństwa
-8	H1	Sygnalizacja błędu
-9	8A	Bezpieczniki topikowe 8A
-10	PLC	Sterownik PLC DVP28SV
+|2|	Q1|	Wyłącznik silnikowy|
+|3|	K1/K2|	Praca silnika do przodu / do tyłu|
+|4|	S3/S2|	Przycisk Start / Stop|
+|5|	S4|	Przełącznik krzywkowy|
+|6|	T1|	Wyłącznik termiczny|
+|7|	SG|	Wyłącznik bezpieczeństwa|
+|8|	H1|	Sygnalizacja błędu|
+|9|	8A|	Bezpieczniki topikowe 8A|
+|10|	PLC|	Sterownik PLC DVP28SV|
 
 Oznaczenie wejść/wyjść cyfrowych:
 
-Lp	I/O	Opis
-1	X0	Start
-2	X1	Stop
-3	X2	Do przodu / Do tyłu
-4	X5	Kasacja błedu
-5	X6	Termik
-6	X7	Wyłącznik bezpieczeństwa
-7	Y0	Do przodu
-8	Y1	Do tyłu
-9	Y2 	Sygnalizacja błędu
-10	C1, C2, C3	Potencjały wspólne
+|Lp|	I/O|	Opis|
+| --- | --- | --- |
+|1|	X0|	Start|
+|2|	X1|	Stop|
+|3|	X2|	Do przodu / Do tyłu|
+|4|	X5|	Kasacja błedu|
+|5|	X6|	Termik|
+|6|	X7|	Wyłącznik bezpieczeństwa|
+|7|	Y0|	Do przodu|
+|8|	Y1|	Do tyłu|
+|9|	Y2| 	Sygnalizacja błędu|
+|10|	C1, C2, C3|	Potencjały wspólne|
 ![2](https://github.com/cheapmouse94/PLC_Delta_Motor_pl/assets/75945631/995edfb5-feb5-4d20-b50a-b292f35dbd11)
 
 
