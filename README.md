@@ -62,6 +62,16 @@ Oznaczenie wejść/wyjść cyfrowych:
 |8|	Y1|	Do tyłu|
 |9|	Y2| 	Sygnalizacja błędu|
 |10|	C1, C2, C3|	Potencjały wspólne|
-![2](https://github.com/cheapmouse94/PLC_Delta_Motor_pl/assets/75945631/995edfb5-feb5-4d20-b50a-b292f35dbd11)
+
+Schemat elektryczny sterowania:
+![PLC_Motor](https://github.com/cheapmouse94/PLC_Delta_Motor_pl/assets/75945631/d853725b-808b-461d-8df5-f0c6952f0214)
+
+Sekcja inicjacyjna PLC:
+![1](https://github.com/cheapmouse94/PLC_Delta_Motor_pl/assets/75945631/4e8ef065-a53f-4cda-bf85-a05a0b5ed5f3)
+
+Sekcja logiczna PLC:
+![2](https://github.com/cheapmouse94/PLC_Delta_Motor_pl/assets/75945631/ccb5c126-2509-4da9-a256-291d9066ba54)
+
+
 
 
