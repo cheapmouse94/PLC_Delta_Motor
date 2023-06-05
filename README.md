@@ -61,5 +61,6 @@ Lp	I/O	Opis
 8	Y1	Do tyłu
 9	Y2 	Sygnalizacja błędu
 10	C1, C2, C3	Potencjały wspólne
+![2](https://github.com/cheapmouse94/PLC_Delta_Motor_pl/assets/75945631/995edfb5-feb5-4d20-b50a-b292f35dbd11)
 
 
