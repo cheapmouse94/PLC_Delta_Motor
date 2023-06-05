@@ -36,6 +36,7 @@ Wykorzystane rekwizyty:
 Oznaczenia rekwizytów na schemacie:
 
 |Lp|	Indeks|	Opis|
+| --- | --- | --- |
 |1|	M1|	Silnik 3x400V|
 2	Q1	Wyłącznik silnikowy
 3	K1/K2	Praca silnika do przodu / do tyłu
