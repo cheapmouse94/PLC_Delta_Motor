@@ -3,15 +3,15 @@ PLC Motor Start-Stop
 
 Projekt elektryczny realizujący proces uruchamiania silnika trójfazowego z sieci sztywnej w wybranych konfiguracjach. Cechy środowiskowe pracy silnika:
 
-•	Połączenie uzwojeń silnika w trójkąt.
-•	Zasilanie silnika z sieci sztywnej 3x400V.
-•	Brak zastosowanej przekładni mechanicznej.
-•	Napędzanie taśmociągu (niski moment obciążenia).
-•	Logika sterowania realizowana jest z udziałem sterownika PLC.
-•	Środowisko pracy o niskim rygorze ze względu na warunki bezpieczeństwa.
-•	Dwukierunkowe praca silnika.
-•	Zaimplementowane zabezpieczenia: termalne, nadmiaroprądowe oraz przycisk awaryjny.
-•	Układ Start-Stop
+•	Połączenie uzwojeń silnika w trójkąt.<br />
+•	Zasilanie silnika z sieci sztywnej 3x400V.<br />
+•	Brak zastosowanej przekładni mechanicznej.<br />
+•	Napędzanie taśmociągu (niski moment obciążenia).<br />
+•	Logika sterowania realizowana jest z udziałem sterownika PLC.<br />
+•	Środowisko pracy o niskim rygorze ze względu na warunki bezpieczeństwa.<br />
+•	Dwukierunkowe praca silnika.<br />
+•	Zaimplementowane zabezpieczenia: termalne, nadmiaroprądowe oraz przycisk awaryjny.<br />
+•	Układ Start-Stop.<br />
 
 Dane znamionowe silnika indukcyjnego:
 
