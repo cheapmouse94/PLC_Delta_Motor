@@ -15,29 +15,28 @@ Projekt elektryczny realizujący proces uruchamiania silnika trójfazowego z sie
 
 Dane znamionowe silnika indukcyjnego:
 
-•	Współczynnik mocy: 0.68
-•	Przekładnia wewnętrzna: 20:1
-•	Liczba obrotów na minutę: 1350 rpm
-•	Prąd znamionowy: 0.7A/0.4A
-•	Napięcie znamionowe: 230V/400V
+•	Współczynnik mocy: 0.68<br />
+•	Przekładnia wewnętrzna: 20:1<br />
+•	Liczba obrotów na minutę: 1350 rpm<br />
+•	Prąd znamionowy: 0.7A/0.4A<br />
+•	Napięcie znamionowe: 230V/400V<br />
 
 Wykorzystane rekwizyty:
 
-•	Trzy przyciski monostabilne.
-•	Przycisk bezpieczeństwa.
-•	Sterownik PLC z serii Delta DVP28SV.
-•	Termik w układzie NC.
-•	Dwa styczniki z serii Siemens Sirius z dodatkowymi stykami NC.
-•	Zasilacz 24V o mocy 30W.
-•	Wyłącznik silnikowy Siemens 0.75-1A. Nastawiony na 0.8A
-•	Żarówka 8W 24VDC.
-•	Przełącznik krzywkowy 2-pozycyjny 1xNO.
-
+•	Trzy przyciski monostabilne.<br />
+•	Przycisk bezpieczeństwa.<br />
+•	Sterownik PLC z serii Delta DVP28SV.<br />
+•	Termik w układzie NC.<br />
+•	Dwa styczniki z serii Siemens Sirius z dodatkowymi stykami NC.<br />
+•	Zasilacz 24V o mocy 30W.<br />
+•	Wyłącznik silnikowy Siemens 0.75-1A. Nastawiony na 0.8A<br />
+•	Żarówka 8W 24VDC.<br />
+•	Przełącznik krzywkowy 2-pozycyjny 1xNO.<br />
 
 Oznaczenia rekwizytów na schemacie:
 
-Lp	Indeks	Opis
-1	M1	Silnik 3x400V
+|Lp|	Indeks|	Opis|
+|1|	M1|	Silnik 3x400V|
 2	Q1	Wyłącznik silnikowy
 3	K1/K2	Praca silnika do przodu / do tyłu
 4	S3 / S2	Przycisk Start / Stop
