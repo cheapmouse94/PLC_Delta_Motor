@@ -1,4 +1,4 @@
-# PLC_Delta_Motor_pl
+# PLC_Delta_Motor
 PLC Motor Start-Stop
 
 Projekt elektryczny realizujący proces uruchamiania silnika trójfazowego z sieci sztywnej w wybranych konfiguracjach. Cechy środowiskowe pracy silnika:
