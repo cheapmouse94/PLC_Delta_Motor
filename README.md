@@ -67,10 +67,10 @@ Schemat elektryczny sterowania:
 ![PLC_Motor](img/PLC_Motor.png)
 
 Sekcja inicjacyjna PLC:
-![1](https://github.com/cheapmouse94/PLC_Delta_Motor_pl/assets/75945631/4e8ef065-a53f-4cda-bf85-a05a0b5ed5f3)
+![1](img/1.png)
 
 Sekcja logiczna PLC:
-![2](https://github.com/cheapmouse94/PLC_Delta_Motor_pl/assets/75945631/ccb5c126-2509-4da9-a256-291d9066ba54)
+![2](img/2.png)
 
 
 
