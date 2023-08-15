@@ -67,10 +67,10 @@ Schemat elektryczny sterowania:
 ![PLC_Motor](img/PLC_Motor.png)
 
 Sekcja inicjacyjna PLC:
-![1](img/1.png)
+![1](img/1.PNG)
 
 Sekcja logiczna PLC:
-![2](img/2.png)
+![2](img/2.PNG)
 
 
 
